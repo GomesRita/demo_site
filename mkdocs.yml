@@ -1,0 +1,14 @@
+site_name: Teste
+site_author: Karina e Rita
+
+theme:
+  name: material
+  language: pt-BR
+
+nav:
+  - Página inicial: index.md
+  - rita.md
+  - karina.md
+
+
+
