@@ -4,11 +4,25 @@ site_author: Karina e Rita
 theme:
   name: material
   language: pt-BR
+  palette:
+    primary: green
+  
 
 
 nav:
   - Página inicial: index.md
-  - rita.md
+  - revisao.md
+  - Equipes:
+    - rodrigo.md
+    - valerio.md
+    - fulana.md
+  - Aulas:
+    - aula1.md
+    - aula2.md
+    - aula3.md
+
+
+  
 
 
 
