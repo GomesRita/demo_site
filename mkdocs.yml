@@ -5,10 +5,11 @@ theme:
   name: material
   language: pt-BR
 
+
 nav:
   - Página inicial: index.md
   - rita.md
-  - karina.md
+
 
 
 
